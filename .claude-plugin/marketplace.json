@@ -1,0 +1,20 @@
+{
+  "name": "social-script",
+  "description": "SEO and web copy skills from Social Script, built from Google Search Console data across 150 pages.",
+  "owner": {
+    "name": "Social Script",
+    "url": "https://www.socialscript.in"
+  },
+  "plugins": [
+    {
+      "name": "seo-skills",
+      "source": "./",
+      "description": "Plan, write, rewrite and audit pages that rank in Google and get cited by AI answers (seo-content), plus sentence-level web copy rules (client-web-copy).",
+      "version": "1.0.0",
+      "homepage": "https://www.socialscript.in/claude-seo-skills",
+      "repository": "https://github.com/social-script/claude-seo-skills",
+      "license": "MIT",
+      "keywords": ["seo", "aeo", "geo", "content", "copywriting", "ai-overviews", "search-console"]
+    }
+  ]
+}

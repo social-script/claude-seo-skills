@@ -1,0 +1,9 @@
+{
+  "client": "Client name",
+  "spelling": "uk",
+  "dashes": "avoid",
+  "formality": "plain professional",
+  "banned": ["cutting-edge", "one-stop solution", "best-in-class"],
+  "preferred": { "inquiry": "enquiry", "customize": "customise" },
+  "notes": "spelling: uk or us. dashes: avoid (flag density) or allow (skip density check; rhetorical dashes are still flagged). banned: words the checker treats as P1. preferred: wrong -> right replacements the checker flags as P2."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "seo-skills",
+  "description": "Plan, write, rewrite and audit pages that rank in Google and get cited by AI answers, with sentence-level web copy rules. From Social Script.",
+  "version": "1.0.0",
+  "author": { "name": "Social Script", "url": "https://www.socialscript.in" },
+  "homepage": "https://www.socialscript.in/claude-seo-skills",
+  "repository": "https://github.com/social-script/claude-seo-skills",
+  "license": "MIT",
+  "keywords": ["seo", "aeo", "geo", "content", "copywriting"]
+}
