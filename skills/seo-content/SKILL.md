@@ -64,7 +64,7 @@ Read `references/page-types.md`. The type comes from the intent you found, not f
 | A provider of a service | **Service page** with price range, named proof, FAQ | Our /services pages at 300–460 words and no proof rank 27–66 |
 | Proof for their industry | **Industry page with a real case study** | Export page: best CTR on our site (6.3%) |
 | A provider near them | **Local page** only with real local content | Templated area pages: 580 impressions, 0 clicks |
-| To understand something | **Guide** only if we have first-hand data, prices or examples | 13 of our 36 generic guides are not indexed |
+| To understand something | **Guide** only if we have first-hand data, prices or examples | 13 of our 36 blog posts, all generic guides, are not indexed |
 
 ### 4. Write the brief
 

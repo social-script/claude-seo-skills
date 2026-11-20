@@ -13,7 +13,7 @@ In November 2026 we checked 150 pages against three months of Google Search Cons
 
 | Finding | Data |
 |---|---|
-| The page type matters more than the writing | Price pages, free tools and product pages for a specific job won on every site. 13 of our 36 generic blog posts were not indexed. |
+| The page type matters more than the writing | Price pages, free tools and product pages for a specific job won on every site. 13 of our 36 blog posts were not indexed, all of them generic. |
 | First-hand material separates indexed from ignored | Every guide with our own prices was indexed; every trend and tips post without them was skipped. |
 | Writing style alone does not predict ranking | Our top pages had longer sentences (median 20.9 words) than the posts Google skipped (15.6). |
 | Hype words go with weaker pages | 0.3 per 1,000 words on strong client pages against 1.1 on weak ones. |
